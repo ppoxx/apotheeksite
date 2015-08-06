@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Apotheek Van Dijck</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://www.apotheekvandijck.be/feed.xml" />
+<link rel="alternate" type="text/html" href="http://www.apotheekvandijck.be" />
+<updated>2015-08-05T15:12:50+02:00</updated>
+<id>http://www.apotheekvandijck.be/</id>
+<author>
+  <name>joeri van dijck</name>
+  <uri>http://www.apotheekvandijck.be/</uri>
+  <email>info@apotheekvandijck.be</email>
+</author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Vind de apotheek van wacht]]></title>
+  <link rel="alternate" type="text/html" href="http://www.apotheekvandijck.be/articles/wachtdienst/" />
+  <id>http://www.apotheekvandijck.be/articles/wachtdienst</id>
+  <published>2015-08-05T00:00:00+02:00</published>
+  <updated>2015-08-05T00:00:00+02:00</updated>
+  <author>
+    <name>joeri van dijck</name>
+    <uri>http://www.apotheekvandijck.be</uri>
+    <email>info@apotheekvandijck.be</email>
+  </author>
+  <content type="html">
+    &lt;iframe width=&quot;80%&quot; height=&quot;1280&quot; frameborder=&quot;0&quot; src=&quot;http://www.apotheek.be/aposite?txt-zip=3960&quot;&gt;&lt;/iframe&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://www.apotheekvandijck.be/articles/wachtdienst/&quot;&gt;Vind de apotheek van wacht&lt;/a&gt; was originally published by joeri van dijck at &lt;a href=&quot;http://www.apotheekvandijck.be&quot;&gt;Apotheek Van Dijck&lt;/a&gt; on August 05, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Nieuwe apotheek]]></title>
+  <link rel="alternate" type="text/html" href="http://www.apotheekvandijck.be/blog/nieuweapotheek/" />
+  <id>http://www.apotheekvandijck.be/blog/nieuweapotheek</id>
+  <published>2015-08-05T00:00:00+02:00</published>
+  <updated>2015-08-05T00:00:00+02:00</updated>
+  <author>
+    <name>joeri van dijck</name>
+    <uri>http://www.apotheekvandijck.be</uri>
+    <email>info@apotheekvandijck.be</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Op deze blog zal u regelmatig info krijgen over de werkzaamheden rond onze nieuwe apotheek.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://www.apotheekvandijck.be/blog/nieuweapotheek/&quot;&gt;Nieuwe apotheek&lt;/a&gt; was originally published by joeri van dijck at &lt;a href=&quot;http://www.apotheekvandijck.be&quot;&gt;Apotheek Van Dijck&lt;/a&gt; on August 05, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Openingsuren]]></title>
+  <link rel="alternate" type="text/html" href="http://www.apotheekvandijck.be/articles/openingsuren/" />
+  <id>http://www.apotheekvandijck.be/articles/openingsuren</id>
+  <published>2015-08-04T00:00:00+02:00</published>
+  <updated>2015-08-04T00:00:00+02:00</updated>
+  <author>
+    <name>joeri van dijck</name>
+    <uri>http://www.apotheekvandijck.be</uri>
+    <email>info@apotheekvandijck.be</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Hier vind je de openingsuren van onze apotheek.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# Openingsuren&lt;/span&gt;
+
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;maandag&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;09.30 - 12.30 13.30 - 18.30&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;dinsdag&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;09.30 - 12.30 13.30 - 18.30&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;woensdag&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;09.30 - 12.30&lt;/span&gt; 
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;donderdag:09.30 - 12.30 13.30 - 18.30&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;vrijdag&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;09.30 - 12.30 13.30 - 18.30&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;zaterdag&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;09.30 - 12.30&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;zondag&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;l-Scalar-Plain&quot;&gt;gesloten&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Buiten de normale openingsuren kan U voor dringende zaken steeds terecht bij de apotheek van wacht.
+Deze kan u gemakkelijk terugvinden via onderstaande link.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://www.apotheekvandijck.be/articles/wachtdienst&quot; class=&quot;btn&quot;&gt;wachtdienst&lt;/a&gt;&lt;/div&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://www.apotheekvandijck.be/articles/openingsuren/&quot;&gt;Openingsuren&lt;/a&gt; was originally published by joeri van dijck at &lt;a href=&quot;http://www.apotheekvandijck.be&quot;&gt;Apotheek Van Dijck&lt;/a&gt; on August 04, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>

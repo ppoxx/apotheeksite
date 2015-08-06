@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://www.apotheekvandijck.be/articles/wachtdienst/</loc>
+    <lastmod>2015-08-05T00:00:00+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.apotheekvandijck.be/blog/nieuweapotheek/</loc>
+    <lastmod>2015-08-05T00:00:00+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.apotheekvandijck.be/articles/openingsuren/</loc>
+    <lastmod>2015-08-04T00:00:00+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.apotheekvandijck.be/</loc>
+  </url>
+  <url>
+    <loc>http://www.apotheekvandijck.be/articles/</loc>
+  </url>
+  <url>
+    <loc>http://www.apotheekvandijck.be/blog/</loc>
+  </url>
+  <url>
+    <loc>http://www.apotheekvandijck.be/tags/</loc>
+  </url>
+  <url>
+    <loc>http://www.apotheekvandijck.be/about/</loc>
+  </url>
+  <url>
+    <loc>http://www.apotheekvandijck.be/theme-setup/</loc>
+  </url>
+</urlset>

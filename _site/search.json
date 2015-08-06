@@ -1,0 +1,63 @@
+[
+
+  
+    {
+      "title"			: "Vind de apotheek van wacht",
+      "link"			: "http://www.apotheekvandijck.be/articles/wachtdienst/",
+      "excerpt"		: "Hier kan je snel de apotheek van wacht terugvinden"
+    }
+  
+
+  
+    ,{
+      "title"			: "Nieuwe apotheek",
+      "link"			: "http://www.apotheekvandijck.be/blog/nieuweapotheek/",
+      "excerpt"		: "informatie over de vooruitgang van onze nieuwe apotheek"
+    }
+  
+
+  
+    ,{
+      "title"			: "Openingsuren",
+      "link"			: "http://www.apotheekvandijck.be/articles/openingsuren/",
+      "excerpt"		: "Wanneer kan je bij ons terecht"
+    }
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "Contact",
+      "link"			: "http://www.apotheekvandijck.be/about/",
+      "excerpt"		: "Apotheek Van Dijck - Markt 23 Bree"
+    }
+  
+
+  
+    ,{
+      "title"			: "Theme Setup",
+      "link"			: "http://www.apotheekvandijck.be/theme-setup/",
+      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
+    }
+  
+
+  
+
+  
+
+  
+
+]
